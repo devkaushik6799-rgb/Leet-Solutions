@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -55,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
