@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1901-find-a-peak-element-ii) |
