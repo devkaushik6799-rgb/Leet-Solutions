@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
