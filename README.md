@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
