@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0860-lemonade-change) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
@@ -186,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
