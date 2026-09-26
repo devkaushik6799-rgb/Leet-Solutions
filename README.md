@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
