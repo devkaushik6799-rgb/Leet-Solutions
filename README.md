@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
