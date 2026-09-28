@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0860-lemonade-change) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
