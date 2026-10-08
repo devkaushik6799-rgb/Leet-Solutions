@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0135-candy](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0189-rotate-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0678-valid-parenthesis-string) |
