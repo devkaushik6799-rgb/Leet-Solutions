@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0162-find-peak-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
