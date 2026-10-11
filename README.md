@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0056-merge-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0141-linked-list-cycle) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
