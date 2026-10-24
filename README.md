@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0055-jump-game) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
