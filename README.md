@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devkaushik6799-rgb/Leet-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
